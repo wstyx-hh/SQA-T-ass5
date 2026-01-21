@@ -1,0 +1,15 @@
+2026-01-21 18:30:04,833 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:30:19,065 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-21 18:30:19,315 [main] INFO  tests.SauceDemoTests - Adding item to cart
+2026-01-21 18:30:19,501 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
+2026-01-21 18:30:19,676 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-21 18:30:19,678 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:30:25,159 [main] INFO  tests.SauceDemoTests - Entering invalid credentials
+2026-01-21 18:30:25,400 [main] INFO  tests.SauceDemoTests - Checking error message
+2026-01-21 18:30:25,402 [main] INFO  tests.SauceDemoTests - TEST PASSED: invalidLogin
+2026-01-21 18:30:25,559 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-21 18:30:25,560 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:30:29,343 [main] INFO  tests.SauceDemoTests - Entering valid credentials
+2026-01-21 18:30:29,571 [main] INFO  tests.SauceDemoTests - Verifying inventory page
+2026-01-21 18:30:29,578 [main] INFO  tests.SauceDemoTests - TEST PASSED: successfulLogin
+2026-01-21 18:30:29,722 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
