@@ -14,10 +14,12 @@ This project contains automated UI tests for the SauceDemo web application using
 ### How to Run Tests. Run from Command Line (Maven)
 1. Open terminal in the project root directory
 2. Execute the following command:
-```mvn clean test
+```
+mvn clean test
 ```
 ## Project Structure
-```src/test/java
+```
+src/test/java
 ├── base
 ├── tests
 └── utils
