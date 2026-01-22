@@ -1,15 +1,69 @@
-2026-01-21 18:30:04,833 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
-2026-01-21 18:30:19,065 [main] INFO  tests.SauceDemoTests - Logging in
-2026-01-21 18:30:19,315 [main] INFO  tests.SauceDemoTests - Adding item to cart
-2026-01-21 18:30:19,501 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
-2026-01-21 18:30:19,676 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
-2026-01-21 18:30:19,678 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
-2026-01-21 18:30:25,159 [main] INFO  tests.SauceDemoTests - Entering invalid credentials
-2026-01-21 18:30:25,400 [main] INFO  tests.SauceDemoTests - Checking error message
-2026-01-21 18:30:25,402 [main] INFO  tests.SauceDemoTests - TEST PASSED: invalidLogin
-2026-01-21 18:30:25,559 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
-2026-01-21 18:30:25,560 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
-2026-01-21 18:30:29,343 [main] INFO  tests.SauceDemoTests - Entering valid credentials
-2026-01-21 18:30:29,571 [main] INFO  tests.SauceDemoTests - Verifying inventory page
-2026-01-21 18:30:29,578 [main] INFO  tests.SauceDemoTests - TEST PASSED: successfulLogin
-2026-01-21 18:30:29,722 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-21 18:37:29,218 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:37:32,391 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-21 18:37:32,645 [main] INFO  tests.SauceDemoTests - Adding item to cart
+2026-01-21 18:37:32,835 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
+2026-01-21 18:37:33,006 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-21 18:37:33,009 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:37:36,069 [main] INFO  tests.SauceDemoTests - Entering invalid credentials
+2026-01-21 18:37:36,352 [main] INFO  tests.SauceDemoTests - Checking error message
+2026-01-21 18:37:36,354 [main] INFO  tests.SauceDemoTests - TEST PASSED: invalidLogin
+2026-01-21 18:37:36,503 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-21 18:37:36,504 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-21 18:37:39,693 [main] INFO  tests.SauceDemoTests - Entering valid credentials
+2026-01-21 18:37:39,922 [main] INFO  tests.SauceDemoTests - Verifying inventory page
+2026-01-21 18:37:39,929 [main] INFO  tests.SauceDemoTests - TEST PASSED: successfulLogin
+2026-01-21 18:37:40,102 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 22:56:50,130 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 22:57:06,473 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 22:57:06,744 [main] INFO  tests.SauceDemoTests - Adding item to cart
+2026-01-22 22:57:06,936 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
+2026-01-22 22:57:07,163 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 22:57:07,165 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:07:22,353 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:07:41,131 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:07:41,364 [main] INFO  tests.SauceDemoTests - Adding item to cart
+2026-01-22 23:07:41,542 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
+2026-01-22 23:07:41,699 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:07:41,701 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:07:47,502 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:07:47,741 [main] INFO  tests.SauceDemoTests - Sorting products by price (low to high)
+2026-01-22 23:07:47,869 [main] INFO  tests.SauceDemoTests - Verifying first product is the cheapest
+2026-01-22 23:07:47,902 [main] INFO  tests.SauceDemoTests - First product price: $7.99
+2026-01-22 23:07:47,904 [main] INFO  tests.SauceDemoTests - TEST PASSED: productSortingByPrice
+2026-01-22 23:07:48,062 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:07:48,064 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:07:52,081 [main] INFO  tests.SauceDemoTests - Entering valid credentials
+2026-01-22 23:07:52,309 [main] INFO  tests.SauceDemoTests - Verifying inventory page
+2026-01-22 23:07:52,316 [main] INFO  tests.SauceDemoTests - TEST PASSED: successfulLogin
+2026-01-22 23:07:52,473 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:07:52,474 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:08:00,729 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:08:00,986 [main] INFO  tests.SauceDemoTests - Adding two items to cart
+2026-01-22 23:08:01,123 [main] INFO  tests.SauceDemoTests - Verifying cart badge shows correct count
+2026-01-22 23:08:01,147 [main] ERROR tests.SauceDemoTests - Intentional failure: expected 5, actual 2
+2026-01-22 23:08:01,154 [main] ERROR tests.SauceDemoTests - TEST FAILED: verifyCartBadgeCount
+2026-01-22 23:08:01,496 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:22:45,863 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:22:55,872 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:22:56,164 [main] INFO  tests.SauceDemoTests - Adding item to cart
+2026-01-22 23:22:56,358 [main] INFO  tests.SauceDemoTests - TEST PASSED: addItemToCart
+2026-01-22 23:22:56,525 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:22:56,526 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:23:01,188 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:23:01,528 [main] INFO  tests.SauceDemoTests - Sorting products by price (low to high)
+2026-01-22 23:23:01,727 [main] INFO  tests.SauceDemoTests - Verifying first product is the cheapest
+2026-01-22 23:23:01,768 [main] INFO  tests.SauceDemoTests - First product price: $7.99
+2026-01-22 23:23:01,769 [main] INFO  tests.SauceDemoTests - TEST PASSED: productSortingByPrice
+2026-01-22 23:23:01,938 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:23:01,939 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:23:06,435 [main] INFO  tests.SauceDemoTests - Entering valid credentials
+2026-01-22 23:23:06,753 [main] INFO  tests.SauceDemoTests - Verifying inventory page
+2026-01-22 23:23:06,762 [main] INFO  tests.SauceDemoTests - TEST PASSED: successfulLogin
+2026-01-22 23:23:06,935 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
+2026-01-22 23:23:06,936 [main] INFO  tests.SauceDemoTests - ===== TEST STARTED =====
+2026-01-22 23:23:14,666 [main] INFO  tests.SauceDemoTests - Logging in
+2026-01-22 23:23:14,959 [main] INFO  tests.SauceDemoTests - Adding two items to cart
+2026-01-22 23:23:15,098 [main] INFO  tests.SauceDemoTests - Verifying cart badge shows correct count
+2026-01-22 23:23:15,125 [main] ERROR tests.SauceDemoTests - Intentional failure: expected 5, actual 2
+2026-01-22 23:23:15,130 [main] ERROR tests.SauceDemoTests - TEST FAILED: verifyCartBadgeCount
+2026-01-22 23:23:15,502 [main] INFO  tests.SauceDemoTests - ===== TEST FINISHED =====
